@@ -1,12 +1,7 @@
-# Contributing
+# Contributing Guide
 
-Thank you for your interest in contributing to this project!
+We welcome contributions! Please read the guidelines below before submitting a pull request.
 
-Please follow the standard contribution guidelines:
+## Code of Conduct
 
-- Fork the repository.
-- Create a feature branch.
-- Write clear commit messages.
-- Open a pull request for review.
-
-For more detailed information, refer to the project's documentation or contact the maintainers.
+All contributors are expected to adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating in this project, you agree to follow this code.
