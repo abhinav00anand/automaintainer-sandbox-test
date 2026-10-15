@@ -8,3 +8,4 @@ This is a sandbox test repository for validating the [AutoMaintainer Engine](htt
 
 ## Configuration
 This repository is configured via `.automaintainer.yml` for automated repository maintenance.
+- For onboarding and developer guidelines, read the [Contributing Guide](docs/contributing.md).
