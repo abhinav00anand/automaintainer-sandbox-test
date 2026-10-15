@@ -1,6 +1,6 @@
-# Deployment
+## Prerequisites
 
-Documentation guide for Deployment.
-
-## Overview
-This document provides guidelines and details for deployment in this repository.
+- Required tools (e.g., Docker, Kubernetes, Helm)
+- Access credentials for the target environment
+- Proper configuration files and environment variables
+- Sufficient permissions to deploy resources
