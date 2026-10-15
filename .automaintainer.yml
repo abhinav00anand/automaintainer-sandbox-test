@@ -1,0 +1,21 @@
+# AutoMaintainer Enterprise Repository Configuration
+version: "1.0"
+mode: "conservative"
+
+rate_limits:
+  max_prs_per_week: 5
+  max_files_per_pr: 3
+  max_lines_per_pr: 100
+
+maintenance:
+  actions_pinning:
+    enabled: true
+    add_version_comment: true
+
+  dependency_updates:
+    enabled: true
+    allow_breaking_major: false
+
+  doc_repairs:
+    enabled: true
+    verify_ssl_certificates: true
