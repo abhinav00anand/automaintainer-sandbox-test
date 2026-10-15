@@ -1,11 +1,10 @@
 # AutoMaintainer Sandbox Test Repository
 
-This is an automated sandbox test repository for validating the [AutoMaintainer](https://automaintainer.onrender.com) bot.
+This is a sandbox test repository for validating the [AutoMaintainer Engine](https://automaintainer.onrender.com).
 
-## Automated Gates
-- GitHub Actions Pinning (`.github/workflows/ci.yml`)
-- Broken Link Repairs
-- Dependency Modernization
-- `.automaintainer.yml` Governance Policy
+## Documentation & Architecture
+- For deployment guidelines, read the [Deployment Manual](docs/deployment.md).
+- For internal engine pipelines, refer to the [Architecture Guide](docs/architecture.md).
 
-Monitored by [AutoMaintainer Engine](https://automaintainer.onrender.com).
+## Configuration
+This repository is configured via `.automaintainer.yml` for automated repository maintenance.
