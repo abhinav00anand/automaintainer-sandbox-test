@@ -1,7 +1,18 @@
 # Contributing Guide
 
-We welcome contributions! Please read the guidelines below before submitting a pull request.
+Thank you for your interest in contributing to this project! Please follow the guidelines below to get started.
 
-## Code of Conduct
+## How to Contribute
 
-All contributors are expected to adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating in this project, you agree to follow this code.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Ensure all tests pass.
+4. Open a pull request describing your changes.
+
+## FAQ
+
+**Q:** How do I set up the development environment?
+**A:** Follow the setup instructions in the README.md file.
+
+**Q:** Who can I contact for questions?
+**A:** Open an issue on the repository or reach out to the maintainers listed in the project documentation.
